@@ -1,4 +1,4 @@
-# video-chat-app-cc
+# 𝚅𝙸𝙳𝙴𝙾-𝙲𝙷𝙰𝚃-𝙰𝙿𝙿-𝙲𝙲
 This is a video chat application built using NodeJS, Socket io, webRTC
 
 ## Features
