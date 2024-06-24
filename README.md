@@ -35,6 +35,7 @@
 <span>★𝙴𝚖𝚊𝚒𝚕: hanumasaikrishna21@gmail.com</span>
 <br>
 <span>★ 𝙶𝚒𝚝𝚑𝚞𝚋&#8658;</span> <a href="https://github.com/hanumasaikrish21" target="blank"><img align="center" src="https://github.com/hanumasaikrish21/AirlineManagement_CC_Summer_Project/blob/main/github.svg" alt="hanuma sai krishna" height="60" width="60" /></a>
+<br>
 <span>★ 𝙽𝚊𝚖𝚎:𝚂𝚁𝙴𝙴𝙷𝙸𝚃𝙷𝙰 𝚁𝙰𝚈𝙰𝙻 𝚈𝙴𝙳𝙳𝚄𝙻𝙰</span>
 <br>
 <span>★𝙴𝚖𝚊𝚒𝚕: sreehitharayaly@gmail.com</span>
