@@ -1,18 +1,18 @@
 # 𝚅𝙸𝙳𝙴𝙾-𝙲𝙷𝙰𝚃-𝙰𝙿𝙿-𝙲𝙲
-This is a video chat application built using NodeJS, Socket io, webRTC
+𝚃𝚑𝚒𝚜 𝚒𝚜 𝚊 𝚟𝚒𝚍𝚎𝚘 𝚌𝚑𝚊𝚝 𝚊𝚙𝚙𝚕𝚒𝚌𝚊𝚝𝚒𝚘𝚗 𝚋𝚞𝚒𝚕𝚝 𝚞𝚜𝚒𝚗𝚐 𝙷𝚃𝙼𝙻/𝙲𝚂𝚂, 𝙹𝚊𝚟𝚊𝚂𝚌𝚛𝚒𝚙𝚝,𝙽𝚘𝚍𝚎𝙹𝚂, 𝚂𝚘𝚌𝚔𝚎𝚝 𝚒𝚘, 𝚠𝚎𝚋𝚁𝚃𝙲
 
 ## Features
 
-- Live Video Call functionality
-- Chat functionality
-- Live collaborative Whiteboard functionality
+- 𝙻𝚒𝚟𝚎 𝚅𝚒𝚍𝚎𝚘 𝙲𝚊𝚕𝚕 𝚏𝚞𝚗𝚌𝚝𝚒𝚘𝚗𝚊𝚕𝚒𝚝𝚢
+- 𝙲𝚑𝚊𝚝 𝚏𝚞𝚗𝚌𝚝𝚒𝚘𝚗𝚊𝚕𝚒𝚝𝚢
+- 𝙻𝚒𝚟𝚎 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚒𝚟𝚎 𝚆𝚑𝚒𝚝𝚎𝚋𝚘𝚊𝚛𝚍 𝚏𝚞𝚗𝚌𝚝𝚒𝚘𝚗𝚊𝚕𝚒𝚝𝚢
 
 
 ## Tech Stack
 
-**Client:** HTML/CSS, JavaScript
+**Client:** 𝙷𝚃𝙼𝙻/𝙲𝚂𝚂, 𝙹𝚊𝚟𝚊𝚂𝚌𝚛𝚒𝚙𝚝
 
-**Server:** Node, Socket.io
+**Server:** 𝙽𝚘𝚍𝚎𝙹𝚂, 𝚂𝚘𝚌𝚔𝚎𝚝 𝚒𝚘
 
 
 ## Deployment
@@ -30,14 +30,14 @@ This is a video chat application built using NodeJS, Socket io, webRTC
 ```
 
 # DEVELOPED BY
-<span>★ Name:SREEHITHA RAYAL YEDDULA </span>
+<span>★ 𝙽𝚊𝚖𝚎:𝚂𝚁𝙴𝙴𝙷𝙸𝚃𝙷𝙰 𝚁𝙰𝚈𝙰𝙻 𝚈𝙴𝙳𝙳𝚄𝙻𝙰</span>
 <br>
 <span>★ Email: sreehitharayaly@gmail.com</span>
 <br>
-<span>★ Github=></span> <a href="https://github.com/sree212212" target="blank"><img align="center" src="https://github.com/hanumasaikrish21/AirlineManagement_CC_Summer_Project/blob/main/github.svg" alt="Sreehitha Rayal" height="60" width="60" /></a>
+<span>★ Github&#8658;</span> <a href="https://github.com/sree212212" target="blank"><img align="center" src="https://github.com/hanumasaikrish21/AirlineManagement_CC_Summer_Project/blob/main/github.svg" alt="Sreehitha Rayal" height="60" width="60" /></a>
  <br>
-<span>★ Name:HANUMA SAI KRISHNA PONAKALA </span>
+<span>★ 𝙽𝚊𝚖𝚎:𝙷𝙰𝙽𝚄𝙼𝙰 𝚂𝙰𝙸 𝙺𝚁𝙸𝚂𝙷𝙽𝙰 𝙿𝙾𝙽𝙰𝙺𝙰𝙻𝙰 </span>
 <br>
 <span>★ Email: hanumasaikrishna21@gmail.com</span>
 <br>
-<span>★ Github=></span> <a href="https://github.com/hanumasaikrish21" target="blank"><img align="center" src="https://github.com/hanumasaikrish21/AirlineManagement_CC_Summer_Project/blob/main/github.svg" alt="hanuma sai krishna" height="60" width="60" /></a>
+<span>★ Github&#8658;</span> <a href="https://github.com/hanumasaikrish21" target="blank"><img align="center" src="https://github.com/hanumasaikrish21/AirlineManagement_CC_Summer_Project/blob/main/github.svg" alt="hanuma sai krishna" height="60" width="60" /></a>
